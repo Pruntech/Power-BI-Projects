@@ -51,7 +51,6 @@ Visualizes profit and customer numbers by country, providing insights into regio
 ### Additional Features:
 Each dashboard includes a Navigator for easy navigation between views and a Slicer for filtering data by year and month.\
 Interactions between visualizations have been configured to enhance the intuitiveness of data drilling, allowing users to smoothly explore different levels of detail.\
- \
 
 
 # Project Name: HR Dashboard
