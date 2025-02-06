@@ -76,7 +76,7 @@ Power BI: Established relationships between tables and created a star schema to 
 Developed multiple interactive dashboards to analyze key HR metrics:
 
 ### Home Dashboard:
-Provides an overview of workforce demographics, including:\
+Provides an overview of workforce demographics, including:
 - Number of all and new employees
 - Total number and percentage of employees by gender
 - Total number and percentage of employees by employment status (active or resigned)
@@ -85,7 +85,7 @@ Provides an overview of workforce demographics, including:\
 - Total number of employees by years of service
 
 ### Office Score Dashboard:
-Compares office performance across key HR indicators, such as:\
+Compares office performance across key HR indicators, such as:
 - Average performance rating
 - Average job satisfaction
 - Average monthly salary
@@ -95,7 +95,7 @@ Compares office performance across key HR indicators, such as:\
 Displays employee survey results overall and for each office and compares them to predefined targets.
 
 ### Attrition Key Influences Dashboard:
-Analyzes factors contributing to employee attrition, such as:\
+Analyzes factors contributing to employee attrition, such as:
 - Survey responses
 - Age and income
 - Maritial status
@@ -106,7 +106,7 @@ Analyzes factors contributing to employee attrition, such as:\
 
 
 ### Employees Dashboard:
-Provides insights into individual employees, including:\
+Provides insights into individual employees, including:
 - Performance rating
 - Job satisfaction
 - Years since last promotion
